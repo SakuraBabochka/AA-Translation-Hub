@@ -809,8 +809,6 @@
   "advancement.night_terror.desc": "Entraine un Terreur Nocturne!",
   "advancement.nightcutter.title": "La Progéniture Profane d'Éclair, de Mort et de Chasseurs Stellaires",
   "advancement.nightcutter.desc": "Entraine un Coupe Nuit!",
-  "advancement.phoenix.title": "Faux d'Artifice Automatique",
-  "advancement.phoenix.desc": "Entraine un Phénix!",
   "advancement.prickleboggle.title": "Dr. Dragon",
   "advancement.prickleboggle.desc": "Entraine un Piqueffroi!",
   "advancement.pygmy_death.title": "Reine Dragon Tyrannique",
@@ -1010,5 +1008,306 @@
   "entity.archipelagoadditions.egg.false.flightmare": "Faux Œuf de Volchemar",
   "entity.archipelagoadditions.false.dramillion": "Faux Dramillion",
   "entity.archipelagoadditions.false.scuttleclaw": "Faux Krachfeu",
-  "entity.archipelagoadditions.false.flightmare": "Faux Volchemar"
+  "entity.archipelagoadditions.false.flightmare": "Faux Volchemar",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "item.archipelagoadditions.gronckle_iron_ingot": "Gronckle Iron",
+  "item.archipelagoadditions.quick_sand_bucket": "Quick Sand Bucket",
+  "item.archipelagoadditions.red_quick_sand_bucket": "Red Quick Sand Bucket",
+  "item.archipelagoadditions.dragon_healers_satchel": "Dragon Healer's Satchel",
+  "item.archipelagoadditions.gronckle_iron_formula": "Gronckle Iron Formula",
+  "item.archipelagoadditions.copper_tooth_key": "Copper Tooth Key",
+  "item.archipelagoadditions.reinforced_gronckle_iron_snow_wraith_tooth": "Reinforced Gronckle Iron Snow Wraith Tooth",
+  "item.archipelagoadditions.copper_filled_dragon_proof_key_mould": "Copper Filled Dragon Proof Key Mould",
+  "item.archipelagoadditions.woolly_howl_fur": "Woolly Howl Fur",
+
+  "item.archipelagoadditions.blue_oleander_seeds": "Blue Oleander Seeds",
+  "item.archipelagoadditions.purple_oleander_seeds": "Purple Oleander Seeds",
+  "item.archipelagoadditions.red_oleander_seeds": "Red Oleander Seeds",
+
+  "item.archipelagoadditions.clay_pot": "Clay Pot",
+  "item.archipelagoadditions.gronckle_iron_pot": "Gronckle Iron Pot",
+  "item.archipelagoadditions.gronckle_nightmare_gel_pot": "Gronckle Iron Pot of Monstrous Nightmare Gel",
+  "item.archipelagoadditions.gronckle_timberjack_oil_pot": "Gronckle Iron Pot of Timberjack Oil",
+
+  "item.archipelagoadditions.ice_tail_pike_bucket": "Bucket of Ice Tail Pike",
+  "item.archipelagoadditions.sea_slug_bucket": "Bucket of Sea Slug",
+
+  "item.archipelagoadditions.ice_tail_pike_spawn_egg": "Ice Tail Pike Spawn Egg",
+  "item.archipelagoadditions.sea_slug_spawn_egg": "Sea Slug Spawn Egg",
+  "item.archipelagoadditions.giant_screaming_eel_spawn_egg": "Giant Screaming Eel Spawn Egg",
+  "item.archipelagoadditions.hunter_giant_screaming_eel_spawn_egg": "Dragon Hunter Armoured Giant Screaming Eel Spawn Egg",
+  "item.archipelagoadditions.dragon_hunter_chief_spawn_egg": "Dragon Hunter Chief Spawn Egg",
+
+  "item.archipelagoadditions.seasonal_bundle": "Seasonal Bundle",
+  "item.archipelagoadditions.thawfest_basket": "Thawfest Treat",
+  "item.archipelagoadditions.midsommar_satchel": "Midsommar Satchel",
+  "item.archipelagoadditions.bork_week_trinket": "Bork Week Trinket",
+  "item.archipelagoadditions.dreadfall_surprise": "Dreadfall Surprise",
+  "item.archipelagoadditions.snoggletog_present": "Snoggletog Present",
+  "item.archipelagoadditions.yule_gift": "Yule Gift",
+  "item.archipelagoadditions.lokis_trick": "Loki's Trick",
+  "tooltip.archipelagoadditions.item.seasonal_bundle": "The contents change through the year.",
+  "tooltip.archipelagoadditions.item.thawfest_basket": "Contains Thawfest goodies.",
+  "tooltip.archipelagoadditions.item.midsommar_satchel": "Contains Midsommar goodies.",
+  "tooltip.archipelagoadditions.item.bork_week_trinket": "Contains Bork Week goodies.",
+  "tooltip.archipelagoadditions.item.dreadfall_surprise": "Contains Dreadfall goodies.",
+  "tooltip.archipelagoadditions.item.snoggletog_present": "Contains Snoggletog goodies.",
+  "tooltip.archipelagoadditions.item.yule_gift": "Contains Yule goodies.",
+  "tooltip.archipelagoadditions.item.lokis_trick": "I've got a bad feeling about this.",
+
+  "item.archipelagoadditions.deathsong_scales": "Death Song Scales",
+  "item.archipelagoadditions.light_night_scales": "Light Night Scales",
+  "item.archipelagoadditions.night_light_scales": "Night Light Scales",
+  "item.archipelagoadditions.rapidfire_scales": "Rapidfire Scales",
+  "item.archipelagoadditions.wraithful_howl_scales": "Wraithful Howl Scales",
+
+  "item.archipelagoadditions.gronckle_iron_axe": "Gronckle Iron Axe",
+  "item.archipelagoadditions.gronckle_iron_bow": "Gronckle Iron Bow",
+  "item.archipelagoadditions.gronckle_iron_crossbow": "Gronckle Iron Crossbow",
+  "item.archipelagoadditions.gronckle_iron_dagger": "Gronckle Iron Dagger",
+  "item.archipelagoadditions.gronckle_iron_doubleaxe": "Gronckle Iron Doubleaxe",
+  "item.archipelagoadditions.gronckle_iron_flail": "Gronckle Iron Flail",
+  "item.archipelagoadditions.gronckle_iron_mace": "Gronckle Iron Mace",
+  "item.archipelagoadditions.gronckle_iron_pickaxe": "Gronckle Iron Pickaxe",
+  "item.archipelagoadditions.gronckle_iron_sword": "Gronckle Iron Sword",
+  "item.archipelagoadditions.gronckle_iron_shovel": "Gronckle Iron Shovel",
+  "item.archipelagoadditions.gronckle_iron_hoe": "Gronckle Iron Hoe",
+  "item.archipelagoadditions.thors_gronckle_iron_axe": "Reinforced Gronckle Iron Axe",
+  "item.archipelagoadditions.thors_gronckle_iron_dagger": "Reinforced Gronckle Iron Dagger",
+  "item.archipelagoadditions.thors_gronckle_iron_doubleaxe": "Reinforced Gronckle Iron Doubleaxe",
+  "item.archipelagoadditions.thors_gronckle_iron_flail": "Reinforced Gronckle Iron Flail",
+  "item.archipelagoadditions.thors_gronckle_iron_hammer": "Reinforced Gronckle Iron Hammer",
+  "item.archipelagoadditions.thors_gronckle_iron_pickaxe": "Reinforced Gronckle Iron Pickaxe",
+  "item.archipelagoadditions.thors_gronckle_iron_sword": "Reinforced Gronckle Iron Sword",
+  "item.archipelagoadditions.thors_gronckle_iron_shovel": "Reinforced Gronckle Iron Shovel",
+  "item.archipelagoadditions.thors_gronckle_iron_hoe": "Reinforced Gronckle Iron Hoe",
+
+  "item.archipelagoadditions.dragon_hunter_shovel": "Reinforced Gronckle Iron Shovel",
+  "item.archipelagoadditions.dragon_hunter_hoe": "Reinforced Gronckle Iron Hoe",
+  "item.archipelagoadditions.thors_dragon_hunter_shovel": "Reinforced Gronckle Iron Shovel",
+  "item.archipelagoadditions.thors_dragon_hunter_hoe": "Reinforced Gronckle Iron Hoe",
+
+  "item.archipelagoadditions.woolly_howl_fur_mask": "Woolly Howl Fur Mask",
+  "item.archipelagoadditions.woolly_howl_fur_mantle": "Woolly Howl Fur Mantle",
+  "item.archipelagoadditions.woolly_howl_fur_belt": "Woolly Howl Fur Belt",
+  "item.archipelagoadditions.woolly_howl_fur_boots": "Woolly Howl Fur Boots",
+
+  "item.archipelagoadditions.gronckle_bust_acacia": "Acacia Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_birch": "Birch Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_crimson": "Crimson Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_dark_oak": "Dark Oak Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_jungle": "Jungle Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_oak": "Oak Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_spruce": "Spruce Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_vanaheim": "Vanaheim Gronckle Head",
+  "item.archipelagoadditions.gronckle_bust_warped": "Warped Gronckle Head",
+
+  "block.archipelagoadditions.gronckle_bust_acacia": "Acacia Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_birch": "Birch Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_crimson": "Crimson Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_dark_oak": "Dark Oak Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_jungle": "Jungle Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_oak": "Oak Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_spruce": "Spruce Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_vanaheim": "Vanaheim Gronckle Head",
+  "block.archipelagoadditions.gronckle_bust_warped": "Warped Gronckle Head",
+
+  "block.archipelagoadditions.quick_sand": "Quick Sand",
+  "block.archipelagoadditions.red_quick_sand": "Red Quick Sand",
+
+  "block.archipelagoadditions.rune_pile": "Rune Pile",
+  "block.archipelagoadditions.angled_chain": "Angled Chain",
+  "block.archipelagoadditions.angled_chain_flipped": "Angled Chain Flipped",
+
+  "block.archipelagoadditions.timberjack_scale_rug": "Timberjack Scale Rug",
+  "block.archipelagoadditions.timberjack_scale_tenting": "Timberjack Scale Tenting",
+  "block.archipelagoadditions.typhoomerang_scale_rug": "Typhoomerang Scale Rug",
+  "block.archipelagoadditions.typhoomerang_scale_tenting": "Typhoomerang Scale Tenting",
+  "block.archipelagoadditions.deadly_nadder_scale_rug": "Deadly Nadder Scale Rug",
+  "block.archipelagoadditions.deadly_nadder_scale_tenting": "Deadly Nadder Scale Tenting",
+  "block.archipelagoadditions.nightmare_scale_rug": "Nightmare Scale Rug",
+  "block.archipelagoadditions.nightmare_scale_tenting": "Nightmare Scale Tenting",
+
+  "block.archipelagoadditions.nightmare_gel": "Monstrous Nightmare Gel",
+  "block.archipelagoadditions.timberjack_oil": "Timberjack Oil",
+
+  "block.archipelagoadditions.armorwing_egg_block": "Armourwing Egg Block",
+  "block.archipelagoadditions.boneknapper_egg_block": "Boneknapper Egg Block",
+  "block.archipelagoadditions.butterflywing_egg_block": "Butterflywing Egg Block",
+  "block.archipelagoadditions.changewing_egg_block": "Changewing Egg Block",
+  "block.archipelagoadditions.crimson_goregutter_egg_block": "Crimson Goregutter Egg Block",
+  "block.archipelagoadditions.deadly_nadder_egg_block": "Deadly Nadder Egg Block",
+  "block.archipelagoadditions.deathly_galeslash_egg_block": "Deathly Galeslash Egg Block",
+  "block.archipelagoadditions.deathgripper_egg_block": "Deathgripper Egg Block",
+  "block.archipelagoadditions.devilish_dervish_egg_block": "Devilish Dervish Egg Block",
+  "block.archipelagoadditions.dramillion_egg_block": "Dramillion Egg Block",
+  "block.archipelagoadditions.eight_legged_nadder_egg_block": "Eight-Legged Nadder Egg Block",
+  "block.archipelagoadditions.fireworm_egg_block": "Fireworm Egg Block",
+  "block.archipelagoadditions.fireworm_queen_egg_block": "Fireworm Queen Egg Block",
+  "block.archipelagoadditions.flame_whipper_egg_block": "Flame Whipper Egg Block",
+  "block.archipelagoadditions.flightmare_egg_block": "Flightmare Egg Block",
+  "block.archipelagoadditions.hobblegrunt_egg_block": "Hobblegrunt Egg Block",
+  "block.archipelagoadditions.graveknapper_egg_block": "Graveknapper Egg Block",
+  "block.archipelagoadditions.gronckle_egg_block": "Gronckle Egg Block",
+  "block.archipelagoadditions.grovewing_egg_block": "Grovewing Egg Block",
+  "block.archipelagoadditions.hackatoo_egg_block": "Hackatoo Egg Block",
+  "block.archipelagoadditions.helstryke_egg_block": "Helstryke Egg Block",
+  "block.archipelagoadditions.hideous_zippleback_egg_block": "Hideous Zippleback Egg Block",
+  "block.archipelagoadditions.hotburple_egg_block": "Hotburple Egg Block",
+  "block.archipelagoadditions.hushboggle_egg_block": "Hushboggle Egg Block",
+  "block.archipelagoadditions.lightcutter_egg_block": "Lightcutter Egg Block",
+  "block.archipelagoadditions.light_fury_egg_block": "Light Fury Egg Block",
+  "block.archipelagoadditions.light_night_egg_block": "Light Night Egg Block",
+  "block.archipelagoadditions.magma_breather_egg_block": "Magma Breather Egg Block",
+  "block.archipelagoadditions.monstrous_nightmare_egg_block": "Monstrous Nightmare Egg Block",
+  "block.archipelagoadditions.nightcutter_egg_block": "Nightcutter Egg Block",
+  "block.archipelagoadditions.night_fury_egg_block": "Night Fury Egg Block",
+  "block.archipelagoadditions.night_light_egg_block": "Night Light Egg Block",
+  "block.archipelagoadditions.night_terror_egg_block": "Night Terror Egg Block",
+  "block.archipelagoadditions.prickleboggle_egg_block": "Prickleboggle Egg Block",
+  "block.archipelagoadditions.pygmy_death_egg_block": "Pygmy Death Egg Block",
+  "block.archipelagoadditions.razorwhip_egg_block": "Razorwhip Egg Block",
+  "block.archipelagoadditions.rumblehorn_egg_block": "Rumblehorn Egg Block",
+  "block.archipelagoadditions.sandwraith_egg_block": "Sandwraith Egg Block",
+  "block.archipelagoadditions.scauldron_egg_block": "Scauldron Egg Block",
+  "block.archipelagoadditions.screaming_death_egg_block": "Screaming Death Egg Block",
+  "block.archipelagoadditions.scuttleclaw_egg_block": "Scuttleclaw Egg Block",
+  "block.archipelagoadditions.sentinel_egg_block": "Sentinel Egg Block",
+  "block.archipelagoadditions.shockjaw_egg_block": "Shockjaw Egg Block",
+  "block.archipelagoadditions.silver_phantom_egg_block": "Silver Phantom Egg Block",
+  "block.archipelagoadditions.singetail_egg_block": "Singetail Egg Block",
+  "block.archipelagoadditions.skrill_egg_block": "Skrill Egg Block",
+  "block.archipelagoadditions.skrillcutter_egg_block": "Skrillcutter Egg Block",
+  "block.archipelagoadditions.skrillknapper_egg_block": "Skrillknapper Egg Block",
+  "block.archipelagoadditions.slitherwing_egg_block": "Slitherwing Egg Block",
+  "block.archipelagoadditions.smothering_smokebreath_egg_block": "Smothering Smokebreath Egg Block",
+  "block.archipelagoadditions.snaptrapper_egg_block": "Snaptrapper Egg Block",
+  "block.archipelagoadditions.snow_wraith_egg_block": "Snow Wraith Egg Block",
+  "block.archipelagoadditions.songwing_egg_block": "Songwing Egg Block",
+  "block.archipelagoadditions.speed_stinger_egg_block": "Speed Stinger Egg Block",
+  "block.archipelagoadditions.speed_stryke_egg_block": "Speed Stryke Egg Block",
+  "block.archipelagoadditions.stinger_egg_block": "Stinger Egg Block",
+  "block.archipelagoadditions.stormcutter_egg_block": "Stormcutter Egg Block",
+  "block.archipelagoadditions.storming_nightmare_egg_block": "Storming Nightmare Egg Block",
+  "block.archipelagoadditions.terrible_terror_egg_block": "Terrible Terror Egg Block",
+  "block.archipelagoadditions.thunderbottom_egg_block": "Thunderbottom Egg Block",
+  "block.archipelagoadditions.timberjack_egg_block": "Timberjack Egg Block",
+  "block.archipelagoadditions.triple_stryke_egg_block": "Triple Stryke Egg Block",
+  "block.archipelagoadditions.typhoomerang_egg_block": "Typhoomerang Egg Block",
+  "block.archipelagoadditions.whispering_death_egg_block": "Whispering Death Egg Block",
+  "block.archipelagoadditions.windwalker_egg_block": "Windwalker Egg Block",
+  "block.archipelagoadditions.wolf_fang_egg_block": "Wolf Fang Egg Block",
+  "block.archipelagoadditions.woolly_howl_egg_block": "Woolly Howl Egg Block",
+
+  "tooltip.archipelagoadditions.item.dragon_healers_satchel": "§eRIGHT§r Click on a sick Dragon to diagnose them!",
+  "tooltip.archipelagoadditions.item.dragon_root_remedy": "§eRIGHT§r Click on a Dragon Root poisoned dragon to help them",
+  "tooltip.archipelagoadditions.item.grimora_cure": "§eRIGHT§r Click on a Grimora infested Dragon to cure them",
+  "tooltip.archipelagoadditions.item.dyeable": "This armour is dyeable!",
+  "tooltip.archipelagoadditions.item.gronckle_iron_formula": "§eRIGHT§r Click to feed a trained §6Gronckle§r",
+
+  "message.archipelagoadditions.refined_dragon_root_dismount": "This Dragon suffers from Refined Dragon Root, they need the Remedy",
+
+  "message.archipelagoadditions.dragon_healers_satchel.everything": "This Dragon is very sick. You'll need §6Scauldron Venom§r, a §6Dragon Root Remedy§r, and §6Salt§r!",
+
+  "message.archipelagoadditions.dragon_healers_satchel.blue_oleander_and_dragon_root": "They show multiple symptoms, you'll need §6Scauldron Venom§r & a §6Dragon Root Remedy§r",
+  "message.archipelagoadditions.dragon_healers_satchel.blue_oleander_and_grimora": "This Dragon shows multiple symptoms, you'll need §6Scauldron Venom§r & §6Salt§r",
+  "message.archipelagoadditions.dragon_healers_satchel.dragon_root_and_grimora": "This Dragon shows multiple symptoms, you'll need §6Salt§r & a §6Dragon Root Remedy§r",
+
+  "message.archipelagoadditions.dragon_healers_satchel.blue_oleander": "This Dragon suffers from Blue Oleander poisoning, it's cured with §6Scauldron Venom§r",
+  "message.archipelagoadditions.dragon_healers_satchel.dragon_nip": "This Dragon isn't sick, they've just been rolling around in §6Dragon Nip§r!",
+  "message.archipelagoadditions.dragon_healers_satchel.dragon_root": "This Dragon's gotten too close to Wild Dragon Root, a §6Dragon Root Remedy§r would help",
+  "message.archipelagoadditions.dragon_healers_satchel.grimora": "This dragon is infested with Grimora, §6Salt§r kills these parasites",
+  "message.archipelagoadditions.dragon_healers_satchel.refined_dragon_root": "They suffer from Refined Dragon Root poisoning, it's cured with a §6Dragon Root Remedy§r",
+  "message.archipelagoadditions.dragon_healers_satchel.wild_aggression": "This Dragon isn't sick, but they're very angry!",
+
+  "itemGroup.archipelagoadditionsmodpackutilstab": "Archipelago Additions: Modpack Utils",
+
+  "advancement.gronckle_iron.title": "The Iron Gronckle",
+  "advancement.gronckle_iron.desc": "Three parts limestone, two parts sandstone, one part iron ore, one giant spoon of hardened Gronckle lava!",
+  "advancement.gronckle_iron_tool.title": "Extremely strong yet lightweight!",
+  "advancement.gronckle_iron_tool.desc": "Just crafted your first Gronckle Iron tool",
+  "advancement.gronckle_iron_tools.title": "A true Hooligan",
+  "advancement.gronckle_iron_tools.desc": "Full set of Gronckle Iron tools",
+  "advancement.thors_ore.title": "Thor's Ore... Interesting",
+  "advancement.thors_ore.desc": "It's the strongest material known to Vikings!",
+  "advancement.thors_ore_tool.title": "Even better?",
+  "advancement.thors_ore_tool.desc": "Stronger and more durable!",
+  "advancement.thors_ore_tools.title": "Ready for them all!",
+  "advancement.thors_ore_tools.desc": "With this, who can beat you?",
+
+  "advancement.deathsong.title": "A Siren's Call",
+  "advancement.deathsong.desc": "Train a Death Song!",
+  "advancement.rapidfire.title": "Molten Stinger",
+  "advancement.rapidfire.desc": "Train a Rapidfire!",
+  "advancement.wraithful_howl.title": "The Howling",
+  "advancement.wraithful_howl.desc": "Train a Wraithful Howl!",
+
+  "advancement.von_karma.title": "For you see, Mr. Wright, it was I who coded myself into the game.",
+  "advancement.von_karma.desc": "It was I, Von Karma!",
+
+  "entity.archipelagoadditions.dragon_hunter_chief": "Dragon Hunter Chief",
+  "entity.archipelagoadditions.dragon_hunter_chieftess": "Dragon Hunter Chieftess",
+  "entity.archipelagoadditions.giant_screaming_eel": "Giant Screaming Eel",
+  "entity.archipelagoadditions.hunter_giant_screaming_eel": "Dragon Hunter Armoured Giant Screaming Eel",
+  "entity.archipelagoadditions.ice_tail_pike": "Ice Tail Pike",
+  "entity.archipelagoadditions.sea_slug": "Sea Slug",
+
+  "entity.archipelagoadditions.egg.nightcutter": "Nightcutter",
+  "entity.archipelagoadditions.egg.wraithful_howl": "Wraithful Howl Egg",
+  "entity.archipelagoadditions.egg.deathsong": "Death Song Egg",
+  "entity.archipelagoadditions.egg.hackatoo": "Hackatoo Egg",
+  
+  "entity.archipelagoadditions.egg.rapidfire": "Rapidfire Egg",
+
+  "entity.archipelagoadditions.karma": "Manfred Von Karma and the Weight of Evidence",
+  "entity.archipelagoadditions.nightcutter": "Nightcutter",
+  "entity.archipelagoadditions.wraithful_howl": "Wraithful Howl",
+  "entity.archipelagoadditions.deathsong": "Death Song",
+  "entity.archipelagoadditions.hackatoo": "Hackatoo",
+  "entity.archipelagoadditions.rapidfire": "Rapidfire",
+  "entity.archipelagoadditions.astrid_and_stormfly": "Astrid & Stormfly",
+  "entity.archipelagoadditions.snotlut_and_hookfang": "Snotlout & Hookfang",
+  "entity.archipelagoadditions.mqze_and_mazikist": "Mqze & Mazikist",
+  "entity.archipelagoadditions.raekira_and_bloodspark": "Raekira & Bloodspark",
+
+  "entity.archipelagoadditions.egg.false.boneknapper": "False Boneknapper Egg",
+  "entity.archipelagoadditions.false.boneknapper": "False Boneknapper",
+
+  "sounds.archipelagoadditions.giant_screaming_eel_dying": "Giant Screaming Eel dies screaming",
+  "sounds.archipelagoadditions.giant_screaming_eel_hurt": "Giant Screaming Eel screams in pain",
+  "sounds.archipelagoadditions.giant_screaming_eel_idle": "Giant Screaming Eel screams",
+
+  "key.archipelagoadditions.ability_key": "2nd Special Ability",
+  "key.categories.archipelagoadditions": "Archipelago Additions",
+
+  "item.archipelagoadditions.blahaj": "Blåhaj",
+  "block.archipelagoadditions.blahaj": "Blåhaj"
 }
